@@ -1,0 +1,5 @@
+[submodule "set-branch"]
+	path = set-branch
+	url = https://github.com/omise/challenges.git
+[submodule "rails-challenges/challenges"]
+	branch = challenge-rails
